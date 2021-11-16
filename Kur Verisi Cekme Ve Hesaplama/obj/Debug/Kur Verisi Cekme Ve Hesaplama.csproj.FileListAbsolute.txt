@@ -1,0 +1,10 @@
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\bin\Debug\Kur Verisi Cekme Ve Hesaplama.exe.config
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\bin\Debug\Kur Verisi Cekme Ve Hesaplama.exe
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\bin\Debug\Kur Verisi Cekme Ve Hesaplama.pdb
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur Verisi Cekme Ve Hesaplama.csproj.AssemblyReference.cache
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur_Verisi_Cekme_Ve_Hesaplama.Form1.resources
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur_Verisi_Cekme_Ve_Hesaplama.Properties.Resources.resources
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur Verisi Cekme Ve Hesaplama.csproj.GenerateResource.cache
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur Verisi Cekme Ve Hesaplama.csproj.CoreCompileInputs.cache
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur Verisi Cekme Ve Hesaplama.exe
+D:\csharp-form-projelerim\Kur Verisi Cekme Ve Hesaplama\obj\Debug\Kur Verisi Cekme Ve Hesaplama.pdb
